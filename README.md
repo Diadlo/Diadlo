@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Dmitry
 
 - 🏢 I have been working as a software engineer since 2016.
-- ⛰ Currently, I am employed at [DSR Corporation](https://en.dsr-corporation.com).
+- 💼 Currently, I am employed at [DSR Corporation](https://en.dsr-corporation.com).
 - 🔧 My expertise mainly lies in the field of system and embedded development
 - 🧑‍🏫 Mentor in courses conducted by our company. I enjoy sharing my knowledge and helping others to grow.
 - 🛡 My areas of interest include reverse-engineering and security testing.
