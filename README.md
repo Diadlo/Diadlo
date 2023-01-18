@@ -6,7 +6,7 @@
 - 🧑‍🏫 Mentor in courses conducted by our company. I enjoy sharing my knowledge and helping others to grow.
 - 🛡 My areas of interest include reverse-engineering and security testing.
 - 💻 Big fan of *NIX systems.
-- ✉️ You can reach me at [tg:@dmitry_polshakov](https://t.me/dmitry_polshakov).
+- ✉️ You can reach me at [tg:@dmitry_polshakov](https://t.me/dmitry_polshakov) or mailto:polsha3@gmail.com.
 
 #### 🚀 Opensource contribution
 
