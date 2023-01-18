@@ -2,11 +2,11 @@
 
 - 🏢 I have been working as a software engineer since 2016.
 - 💼 Currently, I am employed at [DSR Corporation](https://en.dsr-corporation.com).
-- 🔧 My expertise mainly lies in the field of system and embedded development
+- 🔧 My expertise mainly lies in the field of system and embedded development.
 - 🧑‍🏫 Mentor in courses conducted by our company. I enjoy sharing my knowledge and helping others to grow.
 - 🛡 My areas of interest include reverse-engineering and security testing.
 - 💻 Big fan of *NIX systems.
-- ✉️ You can reach me at [tg:@dmitry_polshakov](https://t.me/dmitry_polshakov)
+- ✉️ You can reach me at [tg:@dmitry_polshakov](https://t.me/dmitry_polshakov).
 
 #### 🚀 Opensource contribution
 
